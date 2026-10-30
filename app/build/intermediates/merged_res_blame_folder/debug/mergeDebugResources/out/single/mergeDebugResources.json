@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.telaro.tv.app-debug-18:/drawable_tv_banner.xml.flat",
+        "source": "com.telaro.tv.app-main-20:/drawable/tv_banner.xml"
+    },
+    {
+        "merged": "com.telaro.tv.app-debug-18:/drawable_app_card_background.xml.flat",
+        "source": "com.telaro.tv.app-main-20:/drawable/app_card_background.xml"
+    },
+    {
+        "merged": "com.telaro.tv.app-debug-18:/drawable_ic_original_home.xml.flat",
+        "source": "com.telaro.tv.app-main-20:/drawable/ic_original_home.xml"
+    }
+]

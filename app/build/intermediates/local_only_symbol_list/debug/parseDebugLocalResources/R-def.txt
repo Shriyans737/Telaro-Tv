@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+drawable app_card_background
+drawable ic_original_home
+drawable tv_banner
+string app_cannot_open
+string app_name
+string no_other_home
+string original_home

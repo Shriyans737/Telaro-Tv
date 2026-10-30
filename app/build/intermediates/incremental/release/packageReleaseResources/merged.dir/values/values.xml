@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_cannot_open">Can’t open this app</string>
+    <string name="app_name">Telaro</string>
+    <string name="no_other_home">No other home app found</string>
+    <string name="original_home">Original Home</string>
+</resources>
